@@ -10,8 +10,6 @@ https://github.com/syndbg/goenv<br>
 https://github.com/golang/dep/blob/master/README.md<br>
 https://github.com/golang/go/wiki/Modules<br>
 <br>
-**go    pherくんw**\
+**Gopherくんw**\
 https://write.kogus.org/articles/S78LHt<br>
-<br>
-
-
+<br><br>![Gopher](https://blog.golang.org/gopher/gopher.png)
